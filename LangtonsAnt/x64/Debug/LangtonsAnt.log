@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConwayGOL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Board.cpp
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\board.cpp(16): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\board.cpp(17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  CellAutomation.cpp
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'const char *'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4313: 'printf': '%c' in format string conflicts with argument 2 of type 'const char *'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConwayGOL.cpp
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'const char *'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.h(29): warning C4313: 'printf': '%c' in format string conflicts with argument 2 of type 'const char *'
+  Generating Code...
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\cellautomation.cpp(34): warning C4715: 'CellAutomation::GetCellColor': not all control paths return a value
+  LangtonsAnt.vcxproj -> C:\Users\Patrick Kelly\Documents\Visual Studio 2015\Projects\LangtonsAnt\x64\Debug\LangtonsAnt.exe

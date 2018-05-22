@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ConwayGOL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LangtonsAnt.cpp
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\source\CellAutomation.h(30): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\source\CellAutomation.h(30): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'const char *'
+c:\users\patrick kelly\documents\visual studio 2015\projects\langtonsant\langtonsant\source\CellAutomation.h(30): warning C4313: 'printf': '%c' in format string conflicts with argument 2 of type 'const char *'
+  Generating code
+  1 of 359 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LangtonsAnt.vcxproj -> C:\Users\Patrick Kelly\Documents\Visual Studio 2015\Projects\LangtonsAnt\x64\Release\LangtonsAnt.exe
